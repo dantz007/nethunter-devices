@@ -116,6 +116,10 @@ If you wish to add a kernel/new device, leave a link to source here and feel fre
 # CM 13.0
 # git clone https://github.com/binkybear/android_kernel_xiaomi_cancro.git -b cm-13.0
 
+# - Xiaomi Redmi Note 3 (SD)
+# CM 13.0
+# git clone https://github.com/dantz007/android_kernel_xiaomi_msm8956.git -b cm-13.0
+
 # - Toolchain
 # Google reference
 # git clone https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7
